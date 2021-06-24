@@ -1,0 +1,1 @@
+# wialon-notification-server
